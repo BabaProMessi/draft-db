@@ -1,5 +1,7 @@
 [
-  \\ICON\\
+{
+  "not":"iconlar",
+}
   {
     "short_name": "Pelé",
     "long_name": "Edson Arantes do Nascimento",
@@ -241,7 +243,9 @@
     "player_face_url": "https://img.a.transfermarkt.technology/portrait/header/117619-1547817527.jpg?lm=4711"
   },
 
-\\ICON\\
+{
+  "not":"iconlar",
+}
 
 
 
